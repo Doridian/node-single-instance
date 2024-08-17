@@ -23,7 +23,17 @@
     "singleton",
     "security"
   ],
-  "author": "Pierre Fourgeaud",
+  "author": "Doridian",
+  "contributors": [
+    {
+      "type": "code",
+      "name": "Doridian"
+    },
+    {
+      "type": "code",
+      "name": "Pierre Fourgeaud"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Doridian/node-single-instance/issues"
