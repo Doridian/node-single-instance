@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Check if an instance of the current application is running or not.",
   "main": "dist/index.js",
   "scripts": {
