@@ -3,7 +3,7 @@ import { unlinkSync } from "fs";
 import { connect, createServer, Server } from "net";
 import { tmpdir } from "os";
 import path from "path";
-import { EventEmitter } from "stream";
+import { EventEmitter } from "events";
 
 interface IOptions {
   socketPath?: string;
